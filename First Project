@@ -1,0 +1,17 @@
+Name= "Jason Young"
+initials1=" SSS   L"
+initials2="S   S  L"
+initials3="S      L"
+initials4=" SSS   L"
+initials5="    S  L"
+initials6="S   S  L"
+initials7=" SSS   LLLLL"
+print(Name)
+print(initials1)
+print(initials2)
+print(initials3)
+print(initials4)
+print(initials5)
+print(initials6)
+print(initials7)
+
